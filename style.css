@@ -1,0 +1,22 @@
+
+
+.heading{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.score{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.result{
+    padding-top: 10px;
+}
